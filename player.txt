@@ -1,0 +1,40 @@
+Abdur Razzak
+Bowler
+239
+Bangladesh
+Anamul Haque Bijoy
+Batsman
+84
+Bangladesh
+Arafat Sunny
+Bowler
+11
+Bangladesh
+Mashrafe Bin Mortaza
+Bowler
+268
+Bangladesh
+Mohammad Mahmudullah
+Allrounder
+229
+Bangladesh
+Amit Mishra
+Bowler
+47
+India
+Cheteshwar Arvind Pujara
+Batsman
+32
+India
+Harbhajan Singh
+Bowler
+360
+India
+Ishant Sharma
+Bowler
+152
+India
+Mahendra Singh Dhoni
+Batsman
+405
+India
